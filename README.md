@@ -2,7 +2,7 @@
 
 
 ### 다운로드
-https://github.com/mushsooni/Moonleap_kor/releases/download/v1.1/Moonleap_KO_1.1.zip
+https://github.com/mushsooni/Dream-Tactics_kor/releases/download/v0.1/Dream.Tactics_KO_0.1.zip
 
 ### 스팀 상점 페이지
 https://store.steampowered.com/app/1897650
@@ -15,7 +15,7 @@ https://store.steampowered.com/app/1897650
 3. `픽셀 폰트 사용` 체크 해제 시 대체 폰트 사용
 
 ### 제한 사항
-본 패치는 아직 번역 검수가 진행 중인 베타버전입니다. 이용에 참고해 주세요.
+본 패치는 아직 번역 검수가 진행 중인 **베타 버전**입니다. 이용에 참고해 주세요.
 
 
 ### 문의, 제보
@@ -32,7 +32,7 @@ https://steamdb.info/depot/1897651/history/?changeid=M:2971479955150798791
 **기술 분석**: Snowyegret
 
 ### 업데이트 내역
-2026-04-30 [v1.0] 최초 공개
+2026-04-30 [v0.1] 베타 버전 공개
 
 ### 사용된 폰트
 
