@@ -18,7 +18,8 @@ https://store.steampowered.com/app/1897650
 
 
 ### 문의, 제보
-인디게임 갤러리 "드림 택틱스 한글패치 배포"  
+인디게임 갤러리 "Dream Tactics 한글페치 배포 (Beta v.0.1)"  
+https://gall.dcinside.com/indiegame/377970
 
 ### 게임 원본 빌드
 16605221 (v1.2.2)  
