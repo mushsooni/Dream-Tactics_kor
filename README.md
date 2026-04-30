@@ -8,7 +8,6 @@ https://github.com/mushsooni/Dream-Tactics_kor/releases/download/v0.1/Dream.Tact
 https://store.steampowered.com/app/1897650
 
 ### 패치 방법
-**본편**  
 1. 압축 파일 내부의 `data` 폴더를 복사해, 게임 폴더에 덮어쓰기  
    (게임 폴더: 스팀 라이브러리 - 게임명 우클릭 - 관리 - 로컬 파일 탐색)
 2. 영어 출력 시, `Options` - `language`를 `한국어1` 또는 `한국어2`로 변경
