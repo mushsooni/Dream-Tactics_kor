@@ -1,12 +1,6 @@
 # Dream Tactics 한글패치 (Beta)  
 
 
-### 다운로드
-https://github.com/mushsooni/Dream-Tactics_kor/releases/download/v0.1/Dream.Tactics_KO_0.1.zip
-
-### 스팀 상점 페이지
-https://store.steampowered.com/app/1897650
-
 ### 패치 방법
 1. 압축 파일 내부의 `data` 폴더를 복사해, 게임 폴더에 덮어쓰기  
    (게임 폴더: 스팀 라이브러리 - 게임명 우클릭 - 관리 - 로컬 파일 탐색)
@@ -14,11 +8,11 @@ https://store.steampowered.com/app/1897650
 3. `픽셀 폰트 사용` 체크 해제 시 대체 폰트 사용
 
 ### 제한 사항
-본 패치는 아직 번역 검수가 진행 중인 **베타 버전**입니다. 이용에 참고해 주세요.
+본 패치는 아직 번역 검수가 진행 중인 **베타 버전**입니다. 이용 시 참고해 주세요.
 
 
 ### 문의, 제보
-인디게임 갤러리 "Dream Tactics 한글페치 배포 (Beta v.0.1)"  
+인디게임 갤러리 "Dream Tactics 한글패치 배포"  
 https://gall.dcinside.com/indiegame/377970
 
 ### 게임 원본 빌드
@@ -27,18 +21,19 @@ https://steamdb.info/depot/1897651/history/?changeid=M:2971479955150798791
 
 
 ### 패치 제작
-**총괄 및 스토리 번역**: hou  
-**UI, 시스템 번역**: 버섯순이  
-**기술 분석**: Snowyegret
+**총괄**: hou  
+**번역**: hou(스토리 대사), 버섯순이(그란디아 왕국, 시스템 문구, 이미지)  
+**기술**: Snowyegret
 
 ### 업데이트 내역
-2026-04-30 [v0.1] 베타 버전 공개
+2026-04-30 [v0.1] 베타 버전 공개  
+2026-05-10 [v0.2] 대사 전체 오탈자·맞춤법 교정, 일부 대사 번역 개선, 카드·장비 번역 오류 수정
 
 ### 사용된 폰트
 
 **물마루**  
 Copyright (c) 2025, Mushsooni (https://github.com/mushsooni/mulmaru)  
-https://github.com/mushsooni/mulmaru/blob/main/LICENSE
+https://github.com/mushsooni/mulmaru
 
 **Galmuri** (Galmuri7)  
 Copyright © 2019–2025 Lee Minseo (quiple@quiple.dev)  
