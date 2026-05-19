@@ -1,6 +1,9 @@
 # Dream Tactics 한글패치 (Beta)  
 
 
+### 다운로드
+https://github.com/mushsooni/Dream-Tactics_kor/releases/download/v0.2.2/Dream.Tactics_KO_v0.2.2.zip
+
 ### 패치 방법
 1. 압축 파일 내부의 `data` 폴더를 복사해, 게임 폴더에 덮어쓰기  
    (게임 폴더: 스팀 라이브러리 - 게임명 우클릭 - 관리 - 로컬 파일 탐색)
